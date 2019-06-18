@@ -1,9 +1,9 @@
 # frozen_string_literal
 require 'spec_helper'
 
-RSpec.describe CopyrightNoticeHelper do
+RSpec.describe CopyrightNotice::CopyrightNoticeHelper do
 
-  include CopyrightNoticeHelper
+  include CopyrightNotice::CopyrightNoticeHelper
 
   describe "#copyright_notice" do
 
