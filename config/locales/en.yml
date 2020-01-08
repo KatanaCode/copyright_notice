@@ -1,2 +1,2 @@
 en:
-  copyright_notice: "&copy; %{name}, %{dates}"
+  copyright_notice: "&copy; %{dates} %{name}"
